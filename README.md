@@ -1,0 +1,2 @@
+# Szubienica
+Gra w wisielca
